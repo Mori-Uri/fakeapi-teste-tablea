@@ -1,15 +1,15 @@
 {
     "equipes":[
-      {"id": 1, "nome": "Mercedes"},
-      {"id": 2, "nome": "Red Bull"},
-      {"id": 3, "nome": "McLaren"},
-      {"id": 4, "nome": "Aston Martin"},
-      {"id": 5, "nome": "Alpine"},
-      {"id": 6, "nome": "Ferrari"},
-      {"id": 7, "nome": "Alpha Tauri"},
-      {"id": 8, "nome": "Alfa Romeo"},
-      {"id": 9, "nome": "Haas"},
-      {"id": 10, "nome": "Williams"}
+      {"id": 1, "nome": "Mercas"},
+      {"id": 2, "nome": "Touro Vermelho"},
+      {"id": 3, "nome": "McLata"},
+      {"id": 4, "nome": "Aston Marciano"},
+      {"id": 5, "nome": "Alpin Juan"},
+      {"id": 6, "nome": "Trator Agrale Vermelho"},
+      {"id": 7, "nome": "Helmut Marko Racing"},
+      {"id": 8, "nome": "Alfa Erroumeo"},
+      {"id": 9, "nome": "SaaS"},
+      {"id": 10, "nome": "William's DaFoe"}
     ],
 
     "pilotos":[
