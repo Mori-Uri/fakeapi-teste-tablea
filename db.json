@@ -1,4 +1,37 @@
 {
-  "equipes":[]
-    {}
+    "equipes":[
+      {"id": 1, "nome": "Mercedes"},
+      {"id": 2, "nome": "Red Bull"},
+      {"id": 3, "nome": "McLaren"},
+      {"id": 4, "nome": "Aston Martin"},
+      {"id": 5, "nome": "Alpine"},
+      {"id": 6, "nome": "Ferrari"},
+      {"id": 7, "nome": "Alpha Tauri"},
+      {"id": 8, "nome": "Alfa Romeo"},
+      {"id": 9, "nome": "Haas"},
+      {"id": 10, "nome": "Williams"}
+    ],
+
+    "pilotos":[
+        {"id": 1, "nome": "Luis Hamilton"},
+        {"id": 2, "nome": "Valtteri Broxxas"},
+        {"id": 3, "nome": "Max Berstappen"},
+        {"id": 4, "nome": "Chequerito Perez"},
+        {"id": 5, "nome": "L4ndo"},
+        {"id": 6, "nome": "Daniel Ricciardo"},
+        {"id": 7, "nome": "SBinnala Vettel"},
+        {"id": 8, "nome": "Lawrence Skoll"},
+        {"id": 9, "nome": "Alonso Tira Leite de Pedra"},
+        {"id": 10, "nome": "Oco"},
+        {"id": 11, "nome": "Charles LecLecLec"},
+        {"id": 12, "nome": "Carlos Science"},
+        {"id": 13, "nome": "Pierre Gaslindo"},
+        {"id": 14, "nome": "Geladeira Tsunoda"},
+        {"id": 15, "nome": "Italian Jesus"},
+        {"id": 16, "nome": "Bwoah"},
+        {"id": 17, "nome": "Mick Vigarista 2"},
+        {"id": 18, "nome": "Nikita MazesBin"},
+        {"id": 19, "nome": "George Russo"},
+        {"id": 20, "nome": "Nicolas Latoifi"}
+      ]
 }
