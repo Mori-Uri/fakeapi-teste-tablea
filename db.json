@@ -1,102 +1,104 @@
-[
-    {
-        "nome": "Luis Hamilton",
-        "equipe": "Mercas",
-        "tempo": "null"
-    },
-    {
-        "nome": "Valtteri Broxxas",
-        "equipe": "Mercas",
-        "tempo": "null"
-    },
-    {
-        "nome": "Max Berstappen",
-        "equipe": "Touro Vermelho",
-        "tempo": "null"
-    },
-    {
-        "nome": "Chequerito Perez",
-        "equipe": "Touro Vermelho",
-        "tempo": "null"
-    },
-    {
-        "nome": "L4ndo",
-        "equipe": "McLata",
-        "tempo": "null"
-    },
-    {
-        "nome": "Daniel Ricciardo",
-        "equipe": "McLata",
-        "tempo": "null"
-    },
-    {
-        "nome": "SBinnala Vettel",
-        "equipe": "Aston Marciano",
-        "tempo": "null"
-    },
-    {
-        "nome": "Lawrence Skoll",
-        "equipe": "Aston Marciano",
-        "tempo": "null"
-    },
-    {
-        "nome": "Alonso Tira Leite de Pedra",
-        "equipe": "Alpin Juan",
-        "tempo": "null"
-    },
-    {
-        "nome": "Oco",
-        "equipe": "Alpin Juan",
-        "tempo": "null"
-    },
-    {
-        "nome": "Charles LecLecLec",
-        "equipe": "Trator Agrale Vermelho",
-        "tempo": "null"
-    },
-    {
-        "nome": "Carlos Science",
-        "equipe": "Trator Agrale Vermelho",
-        "tempo": "null"
-    },
-    {
-        "nome": "Pierre Gaslindo",
-        "equipe": "Helmut Marko Racing",
-        "tempo": "null"
-    },
-    {
-        "nome": "Geladeira Tsunoda",
-        "equipe": "Helmut Marko Racing",
-        "tempo": "null"
-    },
-    {
-        "nome": "Italian Jesus",
-        "equipe": "Alfa Erroumeo",
-        "tempo": "null"
-    },
-    {
-        "nome": "Bwoah",
-        "equipe": "Alfa Erroumeo",
-        "tempo": "null"
-    },
-    {
-        "nome": "Mick Vigarista Jr",
-        "equipe": "SaaS",
-        "tempo": "null"
-    },
-    {
-        "nome": "MazesBin",
-        "equipe": "SaaS",
-        "tempo": "RODOU"
-    },
-    {
-        "nome": "George Russo",
-        "equipe": "William's DaFoe",
-        "tempo": "null"
-    },
-    {
-        "nome": "Nicolas Latoifi",
-        "equipe": "William's DaFoe",
-        "tempo": "null"
-    }
-]
+{
+    "grid": [
+        {
+            "nome": "Luis Hamilton",
+            "equipe": "Mercas",
+            "tempo": "null"
+        },
+        {
+            "nome": "Valtteri Broxxas",
+            "equipe": "Mercas",
+            "tempo": "null"
+        },
+        {
+            "nome": "Max Berstappen",
+            "equipe": "Touro Vermelho",
+            "tempo": "null"
+        },
+        {
+            "nome": "Chequerito Perez",
+            "equipe": "Touro Vermelho",
+            "tempo": "null"
+        },
+        {
+            "nome": "L4ndo",
+            "equipe": "McLata",
+            "tempo": "null"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "equipe": "McLata",
+            "tempo": "null"
+        },
+        {
+            "nome": "SBinnala Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "null"
+        },
+        {
+            "nome": "Lawrence Skoll",
+            "equipe": "Aston Marciano",
+            "tempo": "null"
+        },
+        {
+            "nome": "Alonso Tira Leite de Pedra",
+            "equipe": "Alpin Juan",
+            "tempo": "null"
+        },
+        {
+            "nome": "Oco",
+            "equipe": "Alpin Juan",
+            "tempo": "null"
+        },
+        {
+            "nome": "Charles LecLecLec",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "null"
+        },
+        {
+            "nome": "Carlos Science",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "null"
+        },
+        {
+            "nome": "Pierre Gaslindo",
+            "equipe": "Helmut Marko Racing",
+            "tempo": "null"
+        },
+        {
+            "nome": "Geladeira Tsunoda",
+            "equipe": "Helmut Marko Racing",
+            "tempo": "null"
+        },
+        {
+            "nome": "Italian Jesus",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "null"
+        },
+        {
+            "nome": "Bwoah",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "null"
+        },
+        {
+            "nome": "Mick Vigarista Jr",
+            "equipe": "SaaS",
+            "tempo": "null"
+        },
+        {
+            "nome": "MazesBin",
+            "equipe": "SaaS",
+            "tempo": "RODOU"
+        },
+        {
+            "nome": "George Russo",
+            "equipe": "William's DaFoe",
+            "tempo": "null"
+        },
+        {
+            "nome": "Nicolas Latoifi",
+            "equipe": "William's DaFoe",
+            "tempo": "null"
+        }
+    ]
+}
