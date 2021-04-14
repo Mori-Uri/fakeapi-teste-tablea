@@ -3,102 +3,122 @@
         {
             "nome": "Luis Hamilton",
             "equipe": "Mercas",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Valtteri Broxxas",
             "equipe": "Mercas",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Max Berstappen",
             "equipe": "Touro Vermelho",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Chequerito Perez",
             "equipe": "Touro Vermelho",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "L4ndo",
             "equipe": "McLata",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Daniel Ricciardo",
             "equipe": "McLata",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "SBinnala Vettel",
             "equipe": "Aston Marciano",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Lawrence Skoll",
             "equipe": "Aston Marciano",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Alonso Tira Leite de Pedra",
             "equipe": "Alpin Juan",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Oco",
             "equipe": "Alpin Juan",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Charles LecLecLec",
             "equipe": "Trator Agrale Vermelho",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Carlos Science",
             "equipe": "Trator Agrale Vermelho",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Pierre Gaslindo",
             "equipe": "Helmut Marko Racing",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Geladeira Tsunoda",
             "equipe": "Helmut Marko Racing",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Italian Jesus",
             "equipe": "Alfa Erroumeo",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Bwoah",
             "equipe": "Alfa Erroumeo",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Mick Vigarista Jr",
             "equipe": "SaaS",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "MazesBin",
             "equipe": "SaaS",
-            "tempo": "RODOU"
+            "tempo": "RODOU",
+            "posição": "Último"
         },
         {
             "nome": "George Russo",
             "equipe": "William's DaFoe",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         },
         {
             "nome": "Nicolas Latoifi",
             "equipe": "William's DaFoe",
-            "tempo": "null"
+            "tempo": "null",
+            "posição": ""
         }
     ]
 }
