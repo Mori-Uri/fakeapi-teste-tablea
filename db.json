@@ -130,49 +130,5 @@
             "tempo": "Rodou mais uma vez",
             "posição": "7°"
         }
-    ],
-    "g4": [
-        {
-            "nome": "Weslley Lima",
-            "equipe": "SD",
-            "tempo": "35,894",
-            "posição": "1°"
-        },
-        {
-            "nome": "Luis Amilton",
-            "equipe": "Mercas",
-            "tempo": "36,548",
-            "posição": "2°"
-        },
-        {
-            "nome": "Daniel Ricciardo",
-            "equipe": "McLata",
-            "tempo": "36,879",
-            "posição": "3°"
-        },
-        {
-            "nome": "Charles LecLecLec",
-            "equipe": "Trator Agrale Vermelho",
-            "tempo": "37,387",
-            "posição": "4°"
-        },
-        {
-            "nome": "Tonhão de Jesus",
-            "equipe": "Alfa Erroumeo",
-            "tempo": "37,951",
-            "posição": "5°"
-        },
-        {
-            "nome": "Schumi Jr",
-            "equipe": "SaaS",
-            "tempo": "39,845",
-            "posição": "6°"
-        },
-        {
-            "nome": "Sebastião Vettel",
-            "equipe": "Aston Marciano",
-            "tempo": "Rodou",
-            "posição": "7°"
-        }
     ]
 }
