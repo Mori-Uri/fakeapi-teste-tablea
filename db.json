@@ -1,132 +1,266 @@
 {
     "g1": [
         {
-            "nome": "Luis Hamilton",
+            "nome": "Weslley Lima",
+            "equipe": "SD",
+            "tempo": "35,894",
+            "posição": "1°"
+        },
+        {
+            "nome": "Luis Amilton",
             "equipe": "Mercas",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Valtteri Broxxas",
-            "equipe": "Mercas",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Max Berstappen",
-            "equipe": "Touro Vermelho",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Chequerito Perez",
-            "equipe": "Touro Vermelho",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "L4ndo",
-            "equipe": "McLata",
-            "tempo": "null",
-            "posição": ""
+            "tempo": "36,548",
+            "posição": "2°"
         },
         {
             "nome": "Daniel Ricciardo",
             "equipe": "McLata",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "SBinnala Vettel",
-            "equipe": "Aston Marciano",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Lawrence Skoll",
-            "equipe": "Aston Marciano",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Alonso Tira Leite de Pedra",
-            "equipe": "Alpin Juan",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Oco",
-            "equipe": "Alpin Juan",
-            "tempo": "null",
-            "posição": ""
+            "tempo": "36,879",
+            "posição": "3°"
         },
         {
             "nome": "Charles LecLecLec",
             "equipe": "Trator Agrale Vermelho",
-            "tempo": "null",
-            "posição": ""
+            "tempo": "37,387",
+            "posição": "4°"
         },
         {
-            "nome": "Carlos Science",
-            "equipe": "Trator Agrale Vermelho",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Pierre Gaslindo",
-            "equipe": "Helmut Marko Racing",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Geladeira Tsunoda",
-            "equipe": "Helmut Marko Racing",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Italian Jesus",
+            "nome": "Tonhão de Jesus",
             "equipe": "Alfa Erroumeo",
-            "tempo": "null",
-            "posição": ""
+            "tempo": "37,951",
+            "posição": "5°"
         },
         {
-            "nome": "Bwoah",
-            "equipe": "Alfa Erroumeo",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Mick Vigarista Jr",
+            "nome": "Schumi Jr",
             "equipe": "SaaS",
-            "tempo": "null",
-            "posição": ""
+            "tempo": "39,845",
+            "posição": "6°"
         },
         {
-            "nome": "MazesBin",
-            "equipe": "SaaS",
-            "tempo": "RODOU",
-            "posição": "Último"
-        },
-        {
-            "nome": "George Russo",
-            "equipe": "William's DaFoe",
-            "tempo": "null",
-            "posição": ""
-        },
-        {
-            "nome": "Nicolas Latoifi",
-            "equipe": "William's DaFoe",
-            "tempo": "null",
-            "posição": ""
+            "nome": "Sebastião Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "Rodou",
+            "posição": "7°"
         }
     ],
     "g2": [
         {
-            "nome": "Cuvinil",
-            "equipe": "Messias",
-            "tempo": "null",
-            "posição": ""
+            "nome": "Luis Amilton",
+            "equipe": "Mercas",
+            "tempo": "35,587",
+            "posição": "1°"
+        },
+        {
+            "nome": "Weslley Lima",
+            "equipe": "SD",
+            "tempo": "35,894",
+            "posição": "2°"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "equipe": "McLata",
+            "tempo": "36,423",
+            "posição": "3°"
+        },
+        {
+            "nome": "Tonhão de Jesus",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "36,991",
+            "posição": "4°"
+        },
+        {
+            "nome": "Charles LecLecLec",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "37,104",
+            "posição": "5°"
+        },
+        {
+            "nome": "Schumi Jr",
+            "equipe": "SaaS",
+            "tempo": "38,761",
+            "posição": "6°"
+        },
+        {
+            "nome": "Sebastião Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "Rodou de novo",
+            "posição": "7°"
+        }
+    ],
+    "g3": [
+        {
+            "nome": "Weslley Lima",
+            "equipe": "SD",
+            "tempo": "33,333",
+            "posição": "1°"
+        },
+        {
+            "nome": "Luis Amilton",
+            "equipe": "Mercas",
+            "tempo": "34,578",
+            "posição": "2°"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "equipe": "McLata",
+            "tempo": "35,949",
+            "posição": "3°"
+        },
+        {
+            "nome": "Charles LecLecLec",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "36,045",
+            "posição": "4°"
+        },
+        {
+            "nome": "Tonhão de Jesus",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "36,351",
+            "posição": "5°"
+        },
+        {
+            "nome": "Schumi Jr",
+            "equipe": "SaaS",
+            "tempo": "39,845",
+            "posição": "6°"
+        },
+        {
+            "nome": "Sebastião Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "Rodou mais uma vez",
+            "posição": "7°"
+        }
+    ],
+    "g4": [
+        {
+            "nome": "Weslley Lima",
+            "equipe": "SD",
+            "tempo": "35,894",
+            "posição": "1°"
+        },
+        {
+            "nome": "Luis Amilton",
+            "equipe": "Mercas",
+            "tempo": "36,548",
+            "posição": "2°"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "equipe": "McLata",
+            "tempo": "36,879",
+            "posição": "3°"
+        },
+        {
+            "nome": "Charles LecLecLec",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "37,387",
+            "posição": "4°"
+        },
+        {
+            "nome": "Tonhão de Jesus",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "37,951",
+            "posição": "5°"
+        },
+        {
+            "nome": "Schumi Jr",
+            "equipe": "SaaS",
+            "tempo": "39,845",
+            "posição": "6°"
+        },
+        {
+            "nome": "Sebastião Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "Rodou",
+            "posição": "7°"
+        }
+    ],
+    "g5": [
+        {
+            "nome": "Weslley Lima",
+            "equipe": "SD",
+            "tempo": "35,894",
+            "posição": "1°"
+        },
+        {
+            "nome": "Luis Amilton",
+            "equipe": "Mercas",
+            "tempo": "36,548",
+            "posição": "2°"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "equipe": "McLata",
+            "tempo": "36,879",
+            "posição": "3°"
+        },
+        {
+            "nome": "Charles LecLecLec",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "37,387",
+            "posição": "4°"
+        },
+        {
+            "nome": "Tonhão de Jesus",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "37,951",
+            "posição": "5°"
+        },
+        {
+            "nome": "Schumi Jr",
+            "equipe": "SaaS",
+            "tempo": "39,845",
+            "posição": "6°"
+        },
+        {
+            "nome": "Sebastião Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "Rodou",
+            "posição": "7°"
+        }
+    ],
+    "g6": [
+        {
+            "nome": "Weslley Lima",
+            "equipe": "SD",
+            "tempo": "35,894",
+            "posição": "1°"
+        },
+        {
+            "nome": "Luis Amilton",
+            "equipe": "Mercas",
+            "tempo": "36,548",
+            "posição": "2°"
+        },
+        {
+            "nome": "Daniel Ricciardo",
+            "equipe": "McLata",
+            "tempo": "36,879",
+            "posição": "3°"
+        },
+        {
+            "nome": "Charles LecLecLec",
+            "equipe": "Trator Agrale Vermelho",
+            "tempo": "37,387",
+            "posição": "4°"
+        },
+        {
+            "nome": "Tonhão de Jesus",
+            "equipe": "Alfa Erroumeo",
+            "tempo": "37,951",
+            "posição": "5°"
+        },
+        {
+            "nome": "Schumi Jr",
+            "equipe": "SaaS",
+            "tempo": "39,845",
+            "posição": "6°"
+        },
+        {
+            "nome": "Sebastião Vettel",
+            "equipe": "Aston Marciano",
+            "tempo": "Rodou",
+            "posição": "7°"
         }
     ]
 }
