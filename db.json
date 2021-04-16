@@ -89,46 +89,46 @@
     ],
     "g3": [
         {
-            "nome": "Weslley Lima.............",
-            "equipe": "SD........................",
-            "tempo": "33,333",
-            "posição": "1°"
+          "nome": "Weslley Lima.............",
+          "equipe": "SD........................",
+          "tempo": "33,333",
+          "posição": "1°"
         },
         {
-            "nome": "Luis Amilton...............",
-            "equipe": "Merces.................",
-            "tempo": "34,578",
-            "posição": "2°"
+          "nome": "Luis Amilton...............",
+          "equipe": "Merces.................",
+          "tempo": "34,578",
+          "posição": "2°"
         },
         {
-            "nome": "Daniel Ricciardo........",
-            "equipe": "McLata.................",
-            "tempo": "35,949",
-            "posição": "3°"
+          "nome": "Daniel Ricciardo........",
+          "equipe": "McLata.................",
+          "tempo": "35,949",
+          "posição": "3°"
         },
         {
-            "nome": "Charles LecLecLec....",
-            "equipe": "Trator...................",
-            "tempo": "36,045",
-            "posição": "4°"
+          "nome": "Charles LecLecLec....",
+          "equipe": "Trator...................",
+          "tempo": "36,045",
+          "posição": "4°"
         },
         {
-            "nome": "Tonhão de Jesus.......",
-            "equipe": "Alfa.......................",
-            "tempo": "36,351",
-            "posição": "5°"
+          "nome": "Tonhão de Jesus.......",
+          "equipe": "Alfa.......................",
+          "tempo": "36,351",
+          "posição": "5°"
         },
         {
-            "nome": "Schumi Jr...................",
-            "equipe": "SaaaaS................",
-            "tempo": "39,845",
-            "posição": "6°"
+          "nome": "Schumi Jr...................",
+          "equipe": "SaaaaS................",
+          "tempo": "39,845",
+          "posição": "6°"
         },
         {
-            "nome": "Sebastião Vettel.........",
-            "equipe": "Aston...................",
-            "tempo": "Rodou mais uma vez",
-            "posição": "7°"
+          "nome": "Sebastião Vettel.........",
+          "equipe": "Aston...................",
+          "tempo": "Rodou mais uma vez",
+          "posição": "7°"
         }
     ],
     "g4": [
@@ -179,43 +179,43 @@
         {
             "nome": "Weslley Lima.............",
             "equipe": "SD........................",
-            "tempo": "35,894",
+            "tempo": "32,654",
             "posição": "1°"
-        },
-        {
-            "nome": "Luis Amilton...............",
-            "equipe": "Merces.................",
-            "tempo": "36,548",
-            "posição": "2°"
         },
         {
             "nome": "Daniel Ricciardo........",
             "equipe": "McLata.................",
-            "tempo": "36,879",
-            "posição": "3°"
+            "tempo": "33,057",
+            "posição": "2°"
         },
         {
-            "nome": "Charles LecLecLec....",
-            "equipe": "Trator...................",
-            "tempo": "37,387",
-            "posição": "4°"
+            "nome": "Luis Amilton...............",
+            "equipe": "Merces.................",
+            "tempo": "33,354",
+            "posição": "3°"
         },
         {
             "nome": "Tonhão de Jesus.......",
             "equipe": "Alfa.......................",
-            "tempo": "37,951",
+            "tempo": "35,915",
+            "posição": "4°"
+        },
+        {
+            "nome": "Charles LecLecLec....",
+            "equipe": "Trator...................",
+            "tempo": "35-987",
             "posição": "5°"
         },
         {
             "nome": "Schumi Jr...................",
             "equipe": "SaaaaS................",
-            "tempo": "39,845",
+            "tempo": "37,650",
             "posição": "6°"
         },
         {
             "nome": "Sebastião Vettel.........",
             "equipe": "Aston...................",
-            "tempo": "IRRAAAAAAAA",
+            "tempo": "Rodou mais uma vez",
             "posição": "7°"
         }
     ]
