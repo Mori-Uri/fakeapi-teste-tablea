@@ -1,20 +1,20 @@
 {
     "g1": [
         {
-            "nome": "Weslley Lima",
-            "equipe": "SD",
+            "nome": "Weslley Lima     ",
+            "equipe": "SD                    ",
             "tempo": "35,894",
             "posição": "1°"
         },
         {
-            "nome": "Luis Amilton",
-            "equipe": "Mercas",
+            "nome": "Luis Amilton     ",
+            "equipe": "Merces                ",
             "tempo": "36,548",
             "posição": "2°"
         },
         {
-            "nome": "Daniel Ricciardo",
-            "equipe": "McLata",
+            "nome": "Daniel Ricciardo ",
+            "equipe": "McLata                ",
             "tempo": "36,879",
             "posição": "3°"
         },
@@ -45,20 +45,20 @@
     ],
     "g2": [
         {
-            "nome": "Luis Amilton",
-            "equipe": "Mercas",
+            "nome": "Luis Amilton     ",
+            "equipe": "Merces                ",
             "tempo": "35,587",
             "posição": "1°"
         },
         {
-            "nome": "Weslley Lima",
-            "equipe": "SD",
+            "nome": "Weslley Lima     ",
+            "equipe": "SD                    ",
             "tempo": "35,894",
             "posição": "2°"
         },
         {
-            "nome": "Daniel Ricciardo",
-            "equipe": "McLata",
+            "nome": "Daniel Ricciardo ",
+            "equipe": "McLata                ",
             "tempo": "36,423",
             "posição": "3°"
         },
@@ -89,20 +89,20 @@
     ],
     "g3": [
         {
-            "nome": "Weslley Lima",
-            "equipe": "SD",
+            "nome": "Weslley Lima     ",
+            "equipe": "SD                    ",
             "tempo": "33,333",
             "posição": "1°"
         },
         {
-            "nome": "Luis Amilton",
-            "equipe": "Mercas",
+            "nome": "Luis Amilton     ",
+            "equipe": "Merces                ",
             "tempo": "34,578",
             "posição": "2°"
         },
         {
-            "nome": "Daniel Ricciardo",
-            "equipe": "McLata",
+            "nome": "Daniel Ricciardo ",
+            "equipe": "McLata                ",
             "tempo": "35,949",
             "posição": "3°"
         },
